@@ -1,4 +1,4 @@
-## Olá, eu sou o David Castanheira e bem-vindo ao meu perfil! Abaixo 
+## Olá, eu sou o David Castanheira e bem-vindo ao meu perfil! Abaixo algumas informações sobre mim:
 🏷️ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
 
 🎓 Formação acadêmica
@@ -22,6 +22,7 @@
 •  Realizo testes, depuração, e manutenção dos projetos web, garantindo a qualidade, desempenho e a funcionalidade dos mesmos.
 
 💻 Linguagens de programação e ferramentas
+
 •  HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, C#
 
 •  React.js, Angular, Bootstrap, jQuery, Laravel, Django, Flask
@@ -45,7 +46,7 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 
 <div style="width: 200px;">
 <a href="https://github.com/David-Castanheira/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&include_all_commits=true" alt="" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&langs_count=8" alt="Top Langs" />
 </a>
 </div>
