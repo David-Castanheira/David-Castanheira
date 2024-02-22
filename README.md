@@ -1,5 +1,5 @@
-<div align="center">
-    <img width="675" height="450" align="right" title="Desenvolvimento/Tecnologia" src="[Desenvolvimento back-end](https://techvify-software.com/wp-content/uploads/2023/07/backend.png)"/>
+<div align="right">
+    <img width="675" height="450" title="Desenvolvimento/Tecnologia" src="[Desenvolvimento back-end](https://techvify-software.com/wp-content/uploads/2023/07/backend.png)"/>
 <div>
 
 - 🔭 Estou trabalhando atualmente com ...
@@ -7,3 +7,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
+
+[![David-Castanheira GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Castanheira)](https://github.com/anuraghazra/github-readme-stats)
