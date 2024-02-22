@@ -2,24 +2,10 @@
 🏷️ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
 
 🎓 Formação acadêmica
+
 •  Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
 
 •  Formado no ensino médio integrado ao técnico profissionalizante pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
-
-💼 Experiência profissional
-•  Estágio em Web Design na Zoom Propaganda (2021 - 2023);
-
-•  Estágio em Desenvolvimento Mobile na Pekus Consultoria e Desenvolvimento (2021 - 2021);
-
-•  Desenvolvo e mantenho, com o auxílio de outros desenvolvedores, designers e clientes diversos projetos web e aplicativos, utilizando o CMS Wordpress e Android Studio;
-
-•  Apliquei conceitos de design, usabilidade, SEO e segurança em sites institucionais, landing pages e lojas virtuais;
-
-•  Lidero e coordeno equipes de aplicações web desenvolvidas na instituição, utilizando frameworks e tecnologias modernas, como Python, React.js, Node.js e Docker;
-
-•  Iniciarei o processo de criação e implementação de soluções web inovadoras sob demanda, escaláveis e de alta performance, atendendo às necessidades e expectativas dos clientes;
-
-•  Realizo testes, depuração, e manutenção dos projetos web, garantindo a qualidade, desempenho e a funcionalidade dos mesmos.
 
 💻 Linguagens de programação e ferramentas
 
@@ -34,6 +20,7 @@
 •  Photoshop, Figma
 
 🚀 Futuros projetos / Projetos desenvolvidos
+
 Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode conferir no meu GitHub:
 
 •  Portfólio: Um site pessoal simples, intuitivo e moderno que apresenta os meus trabalhos, habilidades, experiências e contatos;
@@ -52,6 +39,7 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 </div>
 
 📱 Como entrar em contato comigo
+
 Você pode me enviar um e-mail para david.castanheira@aluno.faculdadeimpacta.com.br para conversarmos e trocarmos experiências e ideias ou me seguir nas redes sociais:
 
 •  LinkedIn
