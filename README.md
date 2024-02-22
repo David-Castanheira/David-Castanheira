@@ -46,8 +46,8 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 
 <div style="width: 200px;">
 <a href="https://github.com/David-Castanheira/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=radical" alt="Individual Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=default#gh-light-mode-only" alt="Individual Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&langs_count=8&layout=compact" alt="Top Langs" />
 </a>
 </div>
 
