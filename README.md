@@ -3,15 +3,15 @@
 
 🎓 Formação acadêmica
 
-•  Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
+•  Cursando superior/tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
 
-•  Formado no ensino médio integrado ao técnico profissionalizante pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
+•  Formado no ensino médio integrado ao técnico profissionalizante de Informática pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
 
 💻 Linguagens de programação e ferramentas
 
 •  HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, C#
 
-•  React.js, Angular, Bootstrap, jQuery, Laravel, Django, Flask
+•  React.js, Bootstrap, jQuery, Laravel, Django, Flask
 
 •  Node.js, MySQL, Firebase, Docker, testes unitários (PyUnit) para DevOps
 
@@ -25,9 +25,9 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 
 •  Portfólio: Um site pessoal simples, intuitivo e moderno que apresenta os meus trabalhos, habilidades, experiências e contatos;
 
-•  Ame Mais Animais: Um aplicativo mobile focado no gerenciamento de animais domésticos que permite criar, editar e excluir tarefas, horários de refeições, medicamentos, entre outros, usando Node.js, Typescript, React.js e TypeORM;
+•  Ame Mais Animais: Um aplicativo mobile focado no gerenciamento de animais domésticos que permite criar, editar e excluir tarefas, horários de refeições, medicamentos, entre outros, utilizando Node.js, Typescript, React.js e TypeORM;
 
-•  Espaço Autoestima: Uma aplicaçao web e futuramente mobile que permitirá o cadastro de clientes e agendamento destes, cadastro de produtos, gerenciamento de estoque e lançamento de pagamentos, usando Python, Flask, React.js;
+•  Espaço Autoestima: Uma aplicação web e futuramente mobile que permitirá o cadastro de clientes e agendamento destes, cadastro de produtos, gerenciamento de estoque e lançamento de pagamentos, usando Python + Flask com integração com o SGBD MySQL;
 
 •  Flashcards: Um sistema de cadastro de perguntas e respostas, usando Python, Django e SQLite para armazenamento das informações no banco.
 
