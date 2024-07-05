@@ -40,7 +40,7 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 
 📱 Como entrar em contato comigo
 
-Você pode me enviar um e-mail para david.castanheira@aluno.faculdadeimpacta.com.br para conversarmos e trocarmos experiências e ideias ou me seguir nas redes sociais:
+Você pode me enviar um e-mail para ![david.castanheira@aluno.faculdadeimpacta.com.br](mailto:david.castanheira@aluno.faculdadeimpacta.com.br) para conversarmos e trocarmos experiências e ideias ou me seguir nas redes sociais:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
