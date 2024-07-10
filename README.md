@@ -10,6 +10,7 @@
 💻 Linguagens de programação e ferramentas
 
 •  HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, C#, C++
+<div style="width: 200px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -84,6 +85,7 @@
 •  Ferramentas de Design
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
           
 🚀 Futuros projetos / Projetos desenvolvidos
 
