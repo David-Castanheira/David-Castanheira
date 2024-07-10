@@ -1,3 +1,5 @@
+🚧 Em construção 🚧
+
 ## Olá, eu sou o David Castanheira e bem-vindo ao meu perfil! Abaixo algumas informações sobre mim:
 🏷️ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
 
@@ -29,8 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" height="50" />   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="50" height="50" />     
-<i class="devicon-django-plain-wordmark"></i>
-<i class="devicon-flask-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50" />     
 </div> <br>
 
 • Banco de dados (MySQL, Firebase, SQL Server, SQL Alchemy, SQLite)
