@@ -10,8 +10,8 @@
 •  Formado no ensino médio integrado ao técnico profissionalizante de Informática pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
 
 💻 Linguagens de programação e ferramentas
+<div style="width: 100px;"> <br>
 •  HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, C#, C++
-<div style="width: 100px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" margin-left="2rem"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
