@@ -128,9 +128,22 @@ Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode 
 
 📱 Como entrar em contato comigo
 
-Você pode me enviar um e-mail para david.castanheira@aluno.faculdadeimpacta.com.br para conversarmos e trocarmos experiências e ideias ou me seguir nas redes sociais:
+Você pode me enviar um e-mail para conversarmos e trocarmos experiências, ideias e me seguir nas redes sociais:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:david.castanheira@aluno.faculdadeimpacta.com.br)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+<div align="center">
+  <a href="mailto:david.castanheira@aluno.faculdadeimpacta.com.br" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo""/>
+  </a>
+  <a href="https://linkedin.com/in/david-castanheira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/DvdCastanheira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@david.castanheira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/26410778/david-castanheira-de-souza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
