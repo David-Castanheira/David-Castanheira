@@ -137,6 +137,9 @@ Você pode me enviar um e-mail para conversarmos e trocarmos experiências, idei
   <a href="https://linkedin.com/in/david-castanheira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://discord.com/channels/@davidcastanheira_s" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
+  </a>
   <a href="https://x.com/DvdCastanheira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
