@@ -1,11 +1,11 @@
 🚧 Em construção 🚧
 
 ## Olá, eu sou o David Castanheira e bem-vindo ao meu perfil! Abaixo algumas informações sobre mim:
-🏷️ Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
+🏷️ Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
 
 🎓 Formação acadêmica
 
-•  Cursando superior/tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
+•  Formado em superior/tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
 
 •  Formado no ensino médio integrado ao técnico profissionalizante de Informática pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
 
