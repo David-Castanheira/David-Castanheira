@@ -5,9 +5,11 @@
 
 🎓 Formação acadêmica
 
-•  Formado em superior/tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
+•  Formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta (Agosto de 2022 - Dezembro de 2024);
 
 •  Formado no ensino médio integrado ao técnico profissionalizante de Informática pelo Instituto Federal de São Paulo (Fevereiro de 2018 - Dezembro de 2021)
+
+☁️ [Certificação AWS Academy Cloud Foundations](https://www.credly.com/badges/5f0c2ee9-96b7-4056-8c9d-f166797dd3e9/print)
 
 💻 Linguagens de programação e ferramentas
 
@@ -107,18 +109,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
 </div> <br>
-
-🚀 Futuros projetos / Projetos desenvolvidos
-
-Aqui estão alguns dos projetos que eu desenvolvi ou participei, que você pode conferir no meu GitHub:
-
-•  Portfólio: Um site pessoal simples, intuitivo e moderno que apresenta os meus trabalhos, habilidades, experiências e contatos;
-
-•  Ame Mais Animais: Um aplicativo mobile focado no gerenciamento de animais domésticos que permite criar, editar e excluir tarefas, horários de refeições, medicamentos, entre outros, utilizando Node.js, Typescript, React.js e TypeORM;
-
-•  Espaço Autoestima: Uma aplicação web e futuramente mobile que permitirá o cadastro de clientes e agendamento destes, cadastro de produtos, gerenciamento de estoque e lançamento de pagamentos, usando Python + Flask com integração com o SGBD MySQL;
-
-•  Flashcards: Um sistema de cadastro de perguntas e respostas, usando Python, Django e SQLite para armazenamento das informações no banco.
 
 <div style="width: 200px;">
 <a href="https://github.com/David-Castanheira/github-readme-stats">
