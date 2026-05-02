@@ -1,6 +1,6 @@
 # Olá, eu sou o David Castanheira 👋
 
-🏷️ Sou graduado em **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Back-end e Cultura DevOps**. Especialista em construção de APIs escaláveis e arquiteturas em nuvem.
+🏷️ Sou graduado em **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Back-end e Cultura DevOps**. Especialista em construção de APIs escaláveis e automação de infraestrutura.
 
 ---
 
@@ -17,19 +17,20 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-**Infraestrutura & Cloud**
+**DevOps & Cloud Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -45,8 +46,8 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=dark" alt="Individual Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&langs_count=8&layout=compact&theme=dark" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
