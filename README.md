@@ -1,7 +1,5 @@
-🚧 Em construção 🚧
-
 ## Olá, eu sou o David Castanheira e bem-vindo ao meu perfil! Abaixo algumas informações sobre mim:
-🏷️ Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades básicas aplicados à desenvolvimento Web e Mobile.
+🏷️ Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia e inovação com foco no desenvolvimento back-end. Possuo conhecimento e habilidades aplicados à desenvolvimento back-end.
 
 🎓 Formação acadêmica
 
@@ -47,39 +45,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" />
 </div> <br>
 
-• Versionamento (Git, GitHub, GitLab, Subversion, Tortoise)
+• Versionamento (Git, GitHub, GitLab)
 <div style="width: 100px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" width="40" height="40" />
-</div> <br>
-
-• IDE's (VS Code, IntelliJ, Eclipse, Visual Studio, Android Studio)
-<div style="width: 100px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40" />        
 </div> <br>
 
 • DevOps e Cloud
 <div style="width: 100px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="40" height="40" />
-</div> <br>
-
-• Web para sites/lojas virtuais 
-<div style="width: 100px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="40" height="40" />
 </div> <br>
 
 • Testes unitários e API
@@ -104,12 +82,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original-wordmark.svg" width="40" height="40" /> 
 </div> <br>
 
-•  Ferramentas de Design
-<div style="width: 100px;"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
-</div> <br>
-
 <div style="width: 200px;">
 <a href="https://github.com/David-Castanheira/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=dark#gh-dark-mode-only" alt="Individual Stats" />
@@ -122,7 +94,7 @@
 Você pode me enviar um e-mail para conversarmos e trocarmos experiências, ideias e me seguir nas redes sociais:
 
 <div align="left">
-  <a href="mailto:david.castanheira@aluno.faculdadeimpacta.com.br" target="_blank">
+  <a href="mailto:davidcastanheira.s@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo""/>
   </a>
   <a href="https://linkedin.com/in/david-castanheira" target="_blank">
@@ -130,9 +102,6 @@ Você pode me enviar um e-mail para conversarmos e trocarmos experiências, idei
   </a>
   <a href="https://discord.com/channels/@davidcastanheira_s" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/DvdCastanheira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@david.castanheira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
