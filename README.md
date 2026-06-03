@@ -1,6 +1,6 @@
 # Olá, eu sou o David Castanheira 👋
 
-🏷️ Sou graduado em **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Back-end e Cultura DevOps**. Especialista em construção de APIs escaláveis e automação de infraestrutura.
+🏷️ Sou graduado em **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Back-end e Cultura DevOps**. Aprendendo a construir aplicações escaláveis e a gerenciar sua infraestrutura.
 
 ---
 
