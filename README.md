@@ -42,16 +42,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=David-Castanheira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Castanheira&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas" height="180" />
-</p>
-
----
-
 ### 📱 Vamos nos conectar?
 <p align="left">
   <a href="https://linkedin.com/in/david-castanheira">
